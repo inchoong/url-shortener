@@ -1,7 +1,7 @@
 # url-shortener
 Minimal URL shortener that can be entirely hosted on GitHub pages.
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;">
-<li><h1 class="entry-title" style="margin: 0px; padding: 0px; border: 0px; font-size: 1.57143rem; vertical-align: baseline; clear: both; line-height: 1.2; font-weight: normal; color: rgb(68, 68, 68); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif;">黑科技：使用GitHub搭建自己的短链接服务</h1>
+<li><h1>黑科技：使用GitHub搭建自己的短链接服务</h1>
 </li>
 <div>
 <br>
@@ -22,10 +22,7 @@ Minimal URL shortener that can be entirely hosted on GitHub pages.
 <span style="margin: 0px; padding: 0px; border: 0px; font-size: 12px; vertical-align: baseline; color: rgb(102, 102, 102); border-style: initial; border-color: initial; border-image: initial;">
 </span>
 <code style="margin: 0px; padding: 0px; border: 0px; font-size: 0.857143rem; vertical-align: baseline; font-family: Consolas, Monaco, &quot;Lucida Console&quot;, monospace; line-height: 2; display: block;">
-<span style="color: rgb(102, 102, 102);">var GITHUB_ISSUES_LINK = "https://api.github.com/repos</span>
-<span style="color: rgb(255, 0, 0);">/<span style="font-weight: bold;">username/repo-name</span>/</span>
-<span style="color: rgb(102, 102, 102);">issues/";
-</span>
+<span style="color: rgb(102, 102, 102);">var GITHUB_ISSUES_LINK = "https://api.github.com/repos</span><span style="color: rgb(255, 0, 0);">/<span style="font-weight: bold;">username/repo-name</span>/</span><span style="color: rgb(102, 102, 102);">issues/";</span>
 </code>
 </pre>
 </div>
